@@ -1,0 +1,22 @@
+body {
+    background-color: #f1f2f6;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align items to the top */
+    height: 100vh;
+    margin: 0;
+    padding-top: 20px; /* Add some padding to give space at the top */
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
